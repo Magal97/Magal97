@@ -8,7 +8,7 @@
 
 <h1>I'm Matheus, a full-stack developer passionate about technology and the entire React ecosystem. </h1>
 
-<a style="font-size: 24px">📌 Pinned Repositories </a>
+<a style="font-size: 4rem">📌 Pinned Repositories </a>
 
 <a href="https://github.com/Magal97/gostack-template-typeorm-upload">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Magal97&repo=gostack-template-typeorm-upload&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
