@@ -40,7 +40,7 @@ I'm Matheus, a full-stack developer passionate about technology and the entire R
 [](https://img.shields.io/badge/Code-React-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodejs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=NodeJs&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=nextjs&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=4AB197)
