@@ -11,13 +11,14 @@
 - 🏥 **Senior Software Engineer** @ Hospital Albert Einstein
 - 💻 7+ years building web & mobile applications
 - ⚛️ Focused on **React**, **React Native**, **Node.js** & **TypeScript**
-- 🚀 Leading projects that impact lifes
+- 🚀 Leading projects that impact **400k+ appointments/month**
 - 🏗️ Microservices & Microfrontend architecture
+- 🌎 Fluent in **Portuguese** (native) & **English**
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-magalh%C3%A3es-araujo/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmgaraujo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magal97@outlook.com)
 
 </div>
 
@@ -43,8 +44,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Magal97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4c71f2&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magal97&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4c71f2&text_color=c9d1d9" alt="Top Languages" />
+<a href="https://github.com/Magal97">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Magal97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4c71f2&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Magal97">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magal97&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4c71f2&text_color=c9d1d9" alt="Top Languages" />
+</a>
 
 </div>
 
