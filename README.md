@@ -44,12 +44,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Magal97">
+<!-- <a href="https://github.com/Magal97">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Magal97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4c71f2&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Magal97">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magal97&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4c71f2&text_color=c9d1d9" alt="Top Languages" />
-</a>
+</a> -->
 
 </div>
 
