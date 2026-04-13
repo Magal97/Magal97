@@ -1,70 +1,57 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:4c71f2,100:7c3aed&height=180&section=header&text=Matheus%20Magalhães%20Araujo&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Engineer&descSize=16&descColor=c9d1d9&descAlignY=55" />
 
-[![Matheus' GitHub Banner](./assets/capaGithub.png)](https://matheusdev.herokuapp.com/)
+<div align="center">
 
-[![Visits Badge](https://badges.pufler.dev/visits/Magal97/Magal97)](https://matheusdev.herokuapp.com/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/matheus-magalh%C3%A3es-araujo/)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4C71F2&center=true&vCenter=true&multiline=false&width=600&height=45&lines=Senior+Software+Engineer;React+%26+React+Native+Enthusiast;Building+scalable+systems+%40+Albert+Einstein" alt="Typing SVG" /></a>
 
+</div>
 
-I'm Matheus, a full-stack developer passionate about technology and the entire React ecosystem.
+## About Me
 
-## 📌 Pinned Repositories
+- 🏥 **Senior Software Engineer** @ Hospital Albert Einstein
+- 💻 7+ years building web & mobile applications
+- ⚛️ Focused on **React**, **React Native**, **Node.js** & **TypeScript**
+- 🚀 Leading projects that impact lifes
+- 🏗️ Microservices & Microfrontend architecture
 
-<a href="https://github.com/Magal97/gostack-template-typeorm-upload">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Magal97&repo=gostack-template-typeorm-upload&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<div align="center">
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-magalh%C3%A3es-araujo/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmgaraujo@gmail.com)
 
-<a href="https://github.com/Magal97/GoBarber">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Magal97&repo=GoBarber&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</div>
 
-<a href="https://github.com/Magal97/gostack-desafio-react-native-delivery">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Magal97&repo=gostack-desafio-react-native-delivery&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+## Tech Stack
 
-## 📈 GitHub Stats
+**Core**
 
-<a href="https://github.com/Magal97">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magal97&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<div align="center">
 
-<a href="https://github.com/Magal97">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Magal97&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Matheus' GitHub Stats" />
-</a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,ts,nodejs,nextjs&theme=dark" alt="Core Skills" /></a>
 
-## 💼 Skills
+</div>
 
+**Tools & Infrastructure**
 
-[](https://img.shields.io/badge/Code-React-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=NodeJs&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=nextjs&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-VB.NET-informational?style=flat&logo=vb.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
+<div align="center">
 
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,kafka,redis,mongodb,mysql,firebase,jest&theme=dark" alt="Tools" /></a>
 
+</div>
 
-<details>
-<summary>More Skills</summary>
+## GitHub Stats
 
-<br>
+<div align="center">
 
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Magal97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4c71f2&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magal97&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4c71f2&text_color=c9d1d9" alt="Top Languages" />
 
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
+</div>
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&logoColor=white&color=4AB197)
+<div align="center">
 
-</details>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Magal97&theme=tokyonight&hide_border=true&background=1a1b27&ring=4c71f2&fire=7c3aed&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:4c71f2,100:7c3aed&height=120&section=footer" />
